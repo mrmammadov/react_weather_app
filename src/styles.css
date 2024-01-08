@@ -1,0 +1,9 @@
+.search-div{
+    margin: 0 auto;
+}
+
+.search-btn {
+    width: 200px;
+    height: 50px;
+    border-radius: 5px;
+}
